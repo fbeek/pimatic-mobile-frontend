@@ -1,5 +1,6 @@
 pimatic mobile-frontend plugin
 ======================
+*ABOUT THIS FORK: Please do not use this fork for your environment, it is a personalized version for me and my special use case and development*
 
 Provides a [jQuery mobile](http://jquerymobile.com/) page, witch let you control
 your actuators, display sensor values and let you add and edit rules. 
