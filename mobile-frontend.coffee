@@ -38,7 +38,7 @@ module.exports = (env) ->
     # ###init the frontend:
     init: (@app, @framework, @config) ->
 
-      if @config.theme in ["aloe", "candy", "melon", "mint", "royal", "sand", "slate", "water"]
+      if @config.theme in ["aloe", "candy", "melon", "mint", "royal", "sand", "slate", "water","idbtec"]
         @config.theme = "graphite/#{@config.theme}"
       if @config.theme is "classic"
         @config.theme = "jqm/#{@config.theme}" 

@@ -1,10 +1,10 @@
 # #mobile-frontend configuration options
 themes = [
   # legacy:
-  "classic", "aloe", "candy", "melon", "mint", "royal", "sand", "water"
+  "classic", "aloe", "candy", "melon", "mint", "royal", "sand", "water", "idbtec"
   # new names:
   "graphite/aloe", "graphite/candy", "graphite/melon", "graphite/mint", 
-  "graphite/royal", "graphite/sand", "graphite/water", "graphite/dark",
+  "graphite/royal", "graphite/sand", "graphite/water", "graphite/idbtec", "graphite/dark",
   "jqm/classic"
 ]
 module.exports = {
